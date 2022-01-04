@@ -22,7 +22,7 @@
     "react-burger-menu": "^2.6.12",
     "react-dom": "^15.5.4",
     "react-dropdown": "^1.6.4",
-    "react-native": "^0.61.2",
+    "react-native": "^0.62.3",
     "react-rangeslider": "^2.2.0",
     "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.1",
